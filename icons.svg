@@ -30,7 +30,7 @@
     <view id="stats-light" viewBox="0 576 32 32" />
 
     <defs>
-    <linearGradient id="paint0_linear_977_13631" x1="24" y1="5.83333" x2="3.50435e-06" y2="22" gradientUnits="userSpaceOnUse">
+    <linearGradient id="paint0_linear_1061_13597" x1="24" y1="5.83333" x2="3.50435e-06" y2="22" gradientUnits="userSpaceOnUse">
     <stop stop-color="#9ACB3E"/>
     <stop offset="1" stop-color="#58B949"/>
     </linearGradient>
@@ -49,7 +49,7 @@
     </g>
 
     <g id="icon-verified" transform="translate(0,72)">
-      <path d="M16 11.3333L24 6L15.5033 7.85867L14.6667 2L9.38933 9.196L2.66667 10.6667L6.42933 13.2327L0 22L9.75267 15.498L17.3333 20.6667L16 11.3333Z" fill="url(#paint0_linear_977_13631)"/>
+      <path d="M15 2L9.3913 9.47826L3 11L6.54217 13.2771L0 22L9.87273 15.4182L17 20L16.0345 11.3103L24 6L15.6649 7.98454L15 2Z" fill="url(#paint0_linear_1061_13597)"/>
     </g>
 
     <g id="icon-twitch" transform="translate(0,96)">
