@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="piecons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 608" enable-background="new 0 0 32 608" xml:space="preserve">
+<svg version="1.1" id="piecons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 32 672" enable-background="new 0 0 32 672" xml:space="preserve">
 
     <view id="captain" viewBox="0 0 24 24" />
     <view id="pc" viewBox="0 24 24 24" />
@@ -28,6 +28,9 @@
 
     <view id="stats-dark" viewBox="0 544 32 32" />
     <view id="stats-light" viewBox="0 576 32 32" />
+
+    <view id="tournament-dark" viewBox="0 608 32 32" />
+    <view id="tournament-light" viewBox="0 640 32 32" />
 
     <defs>
     <linearGradient id="paint0_linear_1061_13597" x1="24" y1="5.83333" x2="3.50435e-06" y2="22" gradientUnits="userSpaceOnUse">
@@ -127,4 +130,13 @@
     <g id="icon-stats-light" transform="translate(0,576)">
       <path d="M11 28H5V22H11V28ZM19 19H13V28H19V19ZM27 15H21V28H27V15ZM27 4L21 5.221L22.716 6.929L15.866 13.662L12.865 10.66L5.024 18.457L6.434 19.875L12.861 13.485L15.852 16.478L24.132 8.341L25.799 10.001L27 4Z" fill="#EEEEEE"/>
     </g>
+
+    <g id="icon-tournament-light" transform="translate(0,608)">
+      <path d="M17.408 22C17.906 18.053 23 14.803 23 5H9C9 14.803 14.105 18.053 14.604 22H17.408ZM13.794 10.528L15.254 10.326L15.897 9L16.54 10.326L18 10.528L16.937 11.549L17.197 13L15.897 12.305L14.597 13L14.857 11.549L13.794 10.528ZM9.991 14.656C10.277 15.294 10.576 15.887 10.873 16.439C6.808 15.091 4.372 11.105 4 7H8.077C8.113 7.482 8.157 7.955 8.216 8.405H5.527C5.954 10.406 7.076 13.134 9.991 14.656ZM20 25.619V27H12V25.619C13.941 25.619 14.369 24.186 14.571 23H17.437C17.63 24.187 18.002 25.619 20 25.619ZM28 7C27.628 11.105 25.192 15.091 21.127 16.438C21.424 15.886 21.723 15.293 22.009 14.655C24.924 13.134 26.046 10.405 26.473 8.404H23.785C23.844 7.954 23.888 7.482 23.924 6.999L28 7Z" fill="#111111"/>
+    </g>
+
+    <g id="icon-tournament-light" transform="translate(0,640)">
+      <path d="M17.408 22C17.906 18.053 23 14.803 23 5H9C9 14.803 14.105 18.053 14.604 22H17.408ZM13.794 10.528L15.254 10.326L15.897 9L16.54 10.326L18 10.528L16.937 11.549L17.197 13L15.897 12.305L14.597 13L14.857 11.549L13.794 10.528ZM9.991 14.656C10.277 15.294 10.576 15.887 10.873 16.439C6.808 15.091 4.372 11.105 4 7H8.077C8.113 7.482 8.157 7.955 8.216 8.405H5.527C5.954 10.406 7.076 13.134 9.991 14.656ZM20 25.619V27H12V25.619C13.941 25.619 14.369 24.186 14.571 23H17.437C17.63 24.187 18.002 25.619 20 25.619ZM28 7C27.628 11.105 25.192 15.091 21.127 16.438C21.424 15.886 21.723 15.293 22.009 14.655C24.924 13.134 26.046 10.405 26.473 8.404H23.785C23.844 7.954 23.888 7.482 23.924 6.999L28 7Z" fill="#EEEEEE"/>
+    </g>
+
 </svg>
